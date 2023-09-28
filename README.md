@@ -5,7 +5,7 @@
   - ORM
   - API design
   - Music
-  - Motorcycles
+  - Bicycling
 - 🌱 I’m currently learning ...
   - Rust!
 - 💞️ I’m looking to collaborate on ...
